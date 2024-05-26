@@ -19,3 +19,6 @@ It needed to be reusable, so I made it that you can change every parameter that 
 ![Screenshot 2024-05-26 131646](https://github.com/SebaTheProgrammer/GTA-Remake/assets/119673781/82b93054-56e6-4901-8abb-fa28709174b7)
 
 ![Screenshot 2024-05-26 131659](https://github.com/SebaTheProgrammer/GTA-Remake/assets/119673781/4e4a8d89-a1ed-4f61-bb76-2b80a6047eef)
+
+![image](https://github.com/SebaTheProgrammer/GTA-Remake/assets/119673781/472ad381-0df4-4e62-8680-77b2519659bd)
+
