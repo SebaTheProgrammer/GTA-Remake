@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b4bd05ae09d3a4fb90ec9079cdd27c, type: 3}
+  m_Name: Charlotte
+  m_EditorClassIdentifier: 
+  nameNpc: Charlotte
+  dialogue:
+  - Hi! My name is Charlotte.
+  - I'm okay, I'm just looking for my grandpa. Can you help me?
+  - I think he was somewhere at the coffee shop!
+  - You are the best.
+  playerDialogue:
+  - Hii! How are you?
+  - Yea of course! Where did you last see him?
+  - I will look for him. No worries!
+  - See ya.
+  NoQuest: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b4bd05ae09d3a4fb90ec9079cdd27c, type: 3}
+  m_Name: Corrupt Cop
+  m_EditorClassIdentifier: 
+  nameNpc: Corrupt Cop
+  dialogue:
+  - HEY YOU!
+  - I need you to bring a package to my good friend.
+  - I need to catch the criminals. Be a good citizen and do it.
+  - Next to the drugs store, there will he be.
+  - No you are. Now of you go.
+  playerDialogue:
+  - Yes officer?
+  - Why can't you do it?
+  - Ok ok. To where do I need to bring it?
+  - You are acting weird.
+  - ...
+  NoQuest: 0

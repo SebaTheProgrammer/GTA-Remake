@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b4bd05ae09d3a4fb90ec9079cdd27c, type: 3}
+  m_Name: Good Cop 2
+  m_EditorClassIdentifier: 
+  nameNpc: Good Cop
+  dialogue:
+  - Who are you?
+  - Of course he is. He is so kind! Can you help me then?
+  - Can you infiltrate the drugs cartel here to your left?
+  - Yes but you will be a hero!
+  - YOU ARE THE BEST!
+  playerDialogue:
+  - Your partner sent me, he is helping an elder men.
+  - Okay, what do I need to do?
+  - That's very scary...
+  - Okay, I want to be a hero!
+  - I know.
+  NoQuest: 0

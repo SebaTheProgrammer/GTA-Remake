@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b4bd05ae09d3a4fb90ec9079cdd27c, type: 3}
+  m_Name: Alexander
+  m_EditorClassIdentifier: 
+  nameNpc: Alexander
+  dialogue:
+  - I don't know who you are, but we have one rule.
+  - Don't talk to my wife.
+  - I know you are trying to climb up the ladder.
+  - Good. You can work for me. I will make you rich.
+  - You can start with killing those middle groupers for me.
+  - Yea but there was a cop that ditched me. So I don't trust them anymore.
+  - Thanks bro, come back to me when it's done.
+  playerDialogue:
+  - And that is?
+  - Okay noted.
+  - Yes indeed. I want to become a millionaire,
+  - What do I need to do?
+  - Those next to the drug store? I thought they were with you?
+  - Consider it done.
+  - No problem.
+  NoQuest: 0

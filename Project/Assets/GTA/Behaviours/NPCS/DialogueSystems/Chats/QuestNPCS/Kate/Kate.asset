@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b4bd05ae09d3a4fb90ec9079cdd27c, type: 3}
+  m_Name: Kate
+  m_EditorClassIdentifier: 
+  nameNpc: Kate
+  dialogue:
+  - Hii, do you want to play soccer with me?
+  - Crap... They found me.
+  - I just stole some foodballs, but they were filled with coke.
+  - I think I was scared. But maybe you can help me?
+  - If you let me live, go back to the drugs store, DON'T go to Hermes at the gas
+    station.
+  - Just kill me then. The choice is yours.
+  playerDialogue:
+  - The send me to kill you.
+  - Why do they want to kill you?
+  - Why didn't you return them?
+  - What do you mean?
+  - And if I don't?
+  - ...
+  NoQuest: 0

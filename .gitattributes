@@ -1,2 +1,35 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.vsconfig text eol=lf 
+# Declare files that will always have LF line endings on checkout.
+*.sh text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf
+
+# Declare files that will always have CRLF line endings on checkout.
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Denote all files that are truly binary and should not be modified.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+
+# Set the default behavior for binary files.
+*.meta binary
+*.prefab binary
+*.mat binary
+*.controller binary
+*.anim binary
+*.asset binary
+*.unity binary
+*.fbx binary
+*.lighting binary
+*.inputactions binary
+*.physicsMaterial2D binary
+*.cs binary
+*.txt binary
+*.shader binary
+*.prefab.meta binary

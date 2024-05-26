@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b4bd05ae09d3a4fb90ec9079cdd27c, type: 3}
+  m_Name: Jonny 1
+  m_EditorClassIdentifier: 
+  nameNpc: Jonny
+  dialogue:
+  - Hi can you help me out?
+  - I'm in troubles... There is a cop who didn't do his job and now I'm a target.
+  - No but maybe you can.
+  - Can you kill Alexander, the leader of the drug cartel?
+  - I will reward you. Don't worry.
+  playerDialogue:
+  - And who are you?
+  - A target? Can't you make up for it?
+  - What do I need to do?
+  - Are you crazy?
+  - ...
+  NoQuest: 0

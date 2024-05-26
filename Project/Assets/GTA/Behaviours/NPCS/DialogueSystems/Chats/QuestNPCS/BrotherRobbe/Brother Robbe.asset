@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b4bd05ae09d3a4fb90ec9079cdd27c, type: 3}
+  m_Name: Brother Robbe
+  m_EditorClassIdentifier: 
+  nameNpc: Brother R.
+  dialogue:
+  - Hi can you help me out?
+  - Yes I am. I'm investigating this weird sea, because I lost my phone in it.
+  - Yes and no, I don't want it anymore, so it's yours if you find it.
+  playerDialogue:
+  - Are you the brother of Robbe?
+  - Do I need to look for it?
+  - Oh thanks!
+  NoQuest: 0

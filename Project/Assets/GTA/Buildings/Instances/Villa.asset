@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74ab5180a33a44b40bc56131e87e7d2b, type: 3}
+  m_Name: Villa
+  m_EditorClassIdentifier: 
+  Name: Villa
+  popularity: 0
+  AskingPriceMin: 10000
+  AskingPriceMax: 10000
+  AskingPrice: 10000
+  StandardPrice: 10000
+  AddCashValue: 0
+  IsAppartement: 0
