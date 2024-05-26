@@ -30,4 +30,7 @@ But how do I do the dialogues? After some time thinking, I came on the idea of u
 
  I used some folder structer, but still, it's not that great. Definitly something to research later on!
 
+ # Traffic
+ 
+
 
