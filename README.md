@@ -1,5 +1,6 @@
 # GTA-Remake
-
+This is my own remake of GTA named Street Hustle: Survival Struggle. You can look though all the code, or watch beneath here some of my biggest problems and how I solved them!
+If you want to play the game, please click here: https://s-tiergames.itch.io/street-hustle-survival-struggle
 # Quest-System made in one weekend:
 Due to a lot of time shortage, I needed to come up with a fast, simple, reusable and expendable quest system.
 
