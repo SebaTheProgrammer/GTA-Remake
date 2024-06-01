@@ -7,6 +7,8 @@ https://s-tiergames.itch.io/street-hustle-survival-struggle
 # A Simple, Reusable and Expendable Quest-System:
 Due to a lot of time shortage, I needed to come up with a fast, simple, reusable and expendable quest system.
 
+https://github.com/SebaTheProgrammer/GTA-Remake/tree/main/Project/Assets/GTA/Behaviours/NPCS/DialogueSystems
+
 For now there are just 3 different Quest-types
 - Fighting
 - Searching (For example a phone, dirty money, packeges, ect)
