@@ -26,6 +26,7 @@ It needed to be reusable, so I made it that you can change every parameter that 
 ![image](https://github.com/SebaTheProgrammer/GTA-Remake/assets/119673781/472ad381-0df4-4e62-8680-77b2519659bd)
 
 ''' 
+
 //Behavior
                                 if (!QuestsInstance.Instance.HasActiveQuest()&& !m_NPCQuest.HasDoneQuest())
                                 {
@@ -48,6 +49,7 @@ It needed to be reusable, so I made it that you can change every parameter that 
                                     {
                                         //neutral
                                     }
+                                    
                                     
 '''
 
