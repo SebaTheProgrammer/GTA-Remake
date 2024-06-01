@@ -1,4 +1,4 @@
-# GTA-Remake
+# GTA-Remake in 6 weeks
 This is my own remake of GTA named Street Hustle: Survival Struggle. You can look though all the code, or read here some of my biggest problems and how I solved them!
 If you want to play the game, please click here: 
 https://s-tiergames.itch.io/street-hustle-survival-struggle
