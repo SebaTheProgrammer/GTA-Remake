@@ -19,13 +19,13 @@ It needed to be reusable, so I made it that you can change every parameter that 
 
 ![Screenshot 2024-05-26 151830](https://github.com/SebaTheProgrammer/GTA-Remake/assets/119673781/7f66d694-47ad-407f-80ab-cee3dad07713)
 
-https://github.com/SebaTheProgrammer/GTA-Remake/blob/50db1692e1c1b4fdbddb444f1f4ba332d232a432/Project/Assets/GTA/Behaviours/NPCS/DialogueSystems/Quest.cs#L230C3-L248C6
-
 ![image](https://github.com/SebaTheProgrammer/GTA-Remake/assets/119673781/5f795d80-67ac-41d2-bc3a-c4e9388dd5d1)
 
 ![Screenshot 2024-05-26 131646](https://github.com/SebaTheProgrammer/GTA-Remake/assets/119673781/82b93054-56e6-4901-8abb-fa28709174b7)
 
 ![Screenshot 2024-05-26 131659](https://github.com/SebaTheProgrammer/GTA-Remake/assets/119673781/4e4a8d89-a1ed-4f61-bb76-2b80a6047eef)
+
+https://github.com/SebaTheProgrammer/GTA-Remake/blob/3041300a85d7bb22b1dc27185d1fc7fb8cc60c1d/Project/Assets/GTA/Behaviours/NPCS/DialogueSystems/Quest.cs#L229C5-L290C6
 
 ![image](https://github.com/SebaTheProgrammer/GTA-Remake/assets/119673781/472ad381-0df4-4e62-8680-77b2519659bd)
 
