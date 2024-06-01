@@ -25,7 +25,8 @@ It needed to be reusable, so I made it that you can change every parameter that 
 
 ![image](https://github.com/SebaTheProgrammer/GTA-Remake/assets/119673781/472ad381-0df4-4e62-8680-77b2519659bd)
 
-''' //Behavior
+''' 
+//Behavior
                                 if (!QuestsInstance.Instance.HasActiveQuest()&& !m_NPCQuest.HasDoneQuest())
                                 {
                                     QuestsInstance.Instance.StartQuest();
@@ -46,7 +47,9 @@ It needed to be reusable, so I made it that you can change every parameter that 
                                     else
                                     {
                                         //neutral
-                                    }'''
+                                    }
+                                    
+'''
 
 But how do I do the dialogues? After some time thinking, I came on the idea of using instances. It's fast and expendable, the only downside is, it can quickly become a spaghetti...
 
