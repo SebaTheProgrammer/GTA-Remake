@@ -29,6 +29,8 @@ https://github.com/SebaTheProgrammer/GTA-Remake/blob/3041300a85d7bb22b1dc27185d1
 
 ![image](https://github.com/SebaTheProgrammer/GTA-Remake/assets/119673781/472ad381-0df4-4e62-8680-77b2519659bd)
 
+https://github.com/SebaTheProgrammer/GTA-Remake/blob/07c90394e038ee61165423ebdaeb193f09130c74/Project/Assets/GTA/Behaviours/NPCS/DialogueSystems/DialogueManger.cs#L62C33-L83C38
+
 But how do I do the dialogues? After some time thinking, I came on the idea of using instances. It's fast and expendable, the only downside is, it can quickly become a spaghetti...
 
 ![image](https://github.com/SebaTheProgrammer/GTA-Remake/assets/119673781/cf69adfc-a262-46ae-9297-531ed339e58b)
