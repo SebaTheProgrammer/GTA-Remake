@@ -45,9 +45,14 @@ But how do I do the dialogues? After some time thinking, I came on the idea of u
  I first thought about how we even drive a car. What are the main rules?
  - Don't hit anyone. (Obviously)
  - Give cars comming from the right priority
- - And stop at traffic lights (If I have some extra time)
+ - And stop at traffic lights (Marked as extra, if I had more time)
 
 So, why couldn't I just make those simple behaviours? Would that work?
-Well yes and no. Driving is so a complex mechanic, but the only possibility to make this work is to simplify it.
+Well yes and no. Driving is so a complex mechanic, but the only possibility to make this work in such a small time frame is to simplify it.
+
+Every car in the real world is different, of course I need to implement that. 
+In my game, every car has a different speed, acceleration/slowing speed and mass.
+This was a subtle nice touch!
+
 
 
