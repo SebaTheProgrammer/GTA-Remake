@@ -40,6 +40,14 @@ But how do I do the dialogues? After some time thinking, I came on the idea of u
  I used some folder structer, but still, it's not that great. Definitly something to research later on!
 
  # Traffic
- 
+ There was no chance that I would have any time to make a smart traffic system. But what could I do?
+
+ I first thought about how we even drive a car. What are the main rules?
+ - Don't hit anyone. (Obviously)
+ - Give cars comming from the right priority
+ - And stop at traffic lights (If I have some extra time)
+
+So, why couldn't I just make those simple behaviours? Would that work?
+Well yes and no. Driving is so a complex mechanic, but the only possibility to make this work is to simplify it.
 
 
