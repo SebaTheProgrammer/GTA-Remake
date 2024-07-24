@@ -40,6 +40,8 @@ But how do I do the dialogues? After some time thinking, I came on the idea of u
  I used some folder structer, but still, it's not that great. Definitly something to research later on!
 
  # Traffic
+ <img width="1280" alt="Car" src="https://github.com/user-attachments/assets/f57abf12-a088-4245-b4c8-2e3ce390a770">
+ 
  There was no chance that I would have any time to make a smart traffic system. But what could I do?
 
  I first thought about how we even drive a car. What are the main rules?
@@ -55,11 +57,14 @@ In my game, every car has a different speed, acceleration/slowing speed and mass
 This was a subtle nice touch!
 
 For now it works:
+
 They don't hit pedastrians, other cars, or you.
 They each have a different driving path.
 The downside is, they turn directly 90 degrees for making a turn.
 So if a car is driving there, they crash..
 It's funny to see, or see them fly away because of that. It's a cartoony game so why not.
+
+<img width="1052" alt="City" src="https://github.com/user-attachments/assets/78ccffc6-b5a1-4474-bccc-4e5031a46a62">
 
 
 
