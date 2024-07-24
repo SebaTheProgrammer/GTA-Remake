@@ -44,15 +44,22 @@ But how do I do the dialogues? After some time thinking, I came on the idea of u
 
  I first thought about how we even drive a car. What are the main rules?
  - Don't hit anyone. (Obviously)
- - Give cars comming from the right priority
+ - Give cars comming from the right priority (In my country)
  - And stop at traffic lights (Marked as extra, if I had more time)
 
 So, why couldn't I just make those simple behaviours? Would that work?
-Well yes and no. Driving is so a complex mechanic, but the only possibility to make this work in such a small time frame is to simplify it.
+Well yes and no. Driving is such a complex mechanic, but the only possibility to make this work in a small time frame is to simplify it.
 
 Every car in the real world is different, of course I need to implement that. 
 In my game, every car has a different speed, acceleration/slowing speed and mass.
 This was a subtle nice touch!
+
+For now it works:
+They don't hit pedastrians, other cars, or you.
+They each have a different driving path.
+The downside is, they turn directly 90 degrees for making a turn.
+So if a car is driving there, they crash..
+It's funny to see, or see them fly away because of that. It's a cartoony game so why not.
 
 
 
